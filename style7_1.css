@@ -1,0 +1,46 @@
+body
+{
+    background-color:black
+}
+
+.Text-Property1
+{
+   
+   color:red;
+   text-align:left;
+   text-transform: uppercase;
+   text-indent: 2px;
+   letter-spacing: 3px;
+   line-height: 3px;
+   word-spacing: 3px;
+   margin:3px;
+   
+
+}
+
+
+.Text-Property2
+{
+   
+   color:green;
+   text-align:center;
+   text-transform: lowercase;
+   text-indent: 2px;
+   letter-spacing: 3px;
+   line-height: 3px;
+   word-spacing: 3px;
+}
+
+
+.Text-Property3
+{
+   
+   color:red;
+   text-align:right;
+   text-transform: capitalize;
+   text-indent: 2px;
+   letter-spacing: 3px;
+   line-height: 3px;
+   word-spacing: 3px;
+}
+

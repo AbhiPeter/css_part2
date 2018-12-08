@@ -1,0 +1,7 @@
+body{
+    background-color:greenyellow;
+    /*
+    here used the background color and image */
+    background-image: url("test.jpg");
+    background-repeat: repeat-x; 
+}

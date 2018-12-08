@@ -1,0 +1,60 @@
+.div1
+{
+    /* left property for all */
+    border-width:3px;
+    border-left-style: solid;
+    border-left-color: blueviolet;
+    margin-left:3px;
+    padding-left: 5px;
+
+}
+
+.div2
+{
+    
+
+    border-right-width: 4px;
+    border-right-style: dotted;
+    border-right-color: red;
+    margin-right:3px;
+    padding-right:5px;        
+
+    /* shorthand proeprty
+border-right:4px solid red;
+
+    */
+
+}
+
+.div3
+{
+    border-top-width: 8px;
+    border-top-style:solid;
+    border-top-color:palevioletred;
+    margin-top:5px;
+    padding-top:10px;
+
+    
+    /* shorthand proeprty
+border-top:4px solid red;
+
+    */
+}
+
+
+.div4
+{
+    border-bottom-width: 10px;
+    border-bottom-style:solid;
+    border-bottom-color:green;
+    margin-bottom:5px;
+    padding-bottom:10px;
+
+
+    /* shorthand proeprty
+border-bottom:4px solid red;
+
+    */
+}
+
+

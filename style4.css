@@ -1,0 +1,52 @@
+
+.div1
+{
+    border-width:3px;
+    border-style: solid;
+    border-color:rebeccapurple;
+    /*
+    short-hand propert :-
+    border:2px solid red;
+
+    */
+}
+
+.div2
+{
+    border-width:3px;
+    border-top-style:solid;
+    border-top-color:red;
+
+    /* short hand propety for the same
+
+    border-top:5px solid red;
+*/
+
+}
+
+.div3
+{
+    
+    border-width:5px;
+    border-left-style: solid;
+    border-color:yellow;
+/* short hand propety for the same
+
+    border-left:5px solid yellow;
+*/
+
+}
+
+.div4
+{
+   
+    border-width: 5px;
+    border-bottom: solid;
+    border-bottom-color: darkblue;
+
+    /* short hadnd property
+
+    border-bottom:5px solid darkblue;
+
+    */
+}
